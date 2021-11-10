@@ -22,3 +22,5 @@ https://www.vultr.com/docs/how-to-install-lighttpd-php-and-mariadb-on-ubuntu-20-
 
 born2broot checklist -
 https://github.com/mharriso/school21-checklists/blob/master/ng_1_born2beroot.pdf
+
+If you still got questions, feel free to ask me! @abernita in slack or @Rigth86 in telegram or RusDaminov@gmail.com.

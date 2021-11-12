@@ -1,17 +1,14 @@
-Born2beRoot
+#Born2beRoot
 
-Summary: This document is a System Administration related exercise.
+##Summary: This document is a System Administration related exercise.
 
-Some useful links:
+###Some useful links:
 
-1. Debian installation process:
-https://youtu.be/13YBlD0SOJo
+1. [Debian installation process:](https://youtu.be/13YBlD0SOJo)
 
-2. Setting up mandatory part:
-https://baigal.medium.com/born2beroot-e6e26dfb50ac
+2. [Setting up mandatory part:](https://baigal.medium.com/born2beroot-e6e26dfb50ac)
 
-3. Bonus part:
-https://www.atlantic.net/dedicated-server-hosting/how-to-install-wordpress-with-lighttpd-web-server-on-ubuntu-20-04/?__cf_chl_captcha_tk__=5fGLKw1zRpGoOmWxq4Fu1WNm5wNXJugS2BLga4ndEbA-1636411109-0-gaNycGzNC5E
+3. [Bonus part:](https://www.atlantic.net/dedicated-server-hosting/how-to-install-wordpress-with-lighttpd-web-server-on-ubuntu-20-04/?__cf_chl_captcha_tk__=5fGLKw1zRpGoOmWxq4Fu1WNm5wNXJugS2BLga4ndEbA-1636411109-0-gaNycGzNC5E)
 
 
 some extra useful links:

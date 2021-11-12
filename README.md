@@ -1,8 +1,8 @@
-#Born2beRoot
+# Born2beRoot
 
-##Summary: This document is a System Administration related exercise.
+## Summary: This document is a System Administration related exercise.
 
-###Some useful links:
+### Some useful links:
 
 1. [Debian installation process:](https://youtu.be/13YBlD0SOJo)
 

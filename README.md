@@ -20,7 +20,6 @@ https://github.com/hanshazairi/42-born2beroot#step-3-connecting-to-server-via-ss
 https://www.vultr.com/docs/how-to-install-lighttpd-php-and-mariadb-on-ubuntu-20-04-lts
 
 
-born2broot checklist -
-https://github.com/mharriso/school21-checklists/blob/master/ng_1_born2beroot.pdf
+[born2broot checklist](https://github.com/mharriso/school21-checklists/blob/master/ng_1_born2beroot.pdf)
 
 If you still got questions, feel free to ask me! [@abernita](https://profile.intra.42.fr/users/abernita) in slack or @Rigth86 in telegram or RusDaminov@gmail.com.

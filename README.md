@@ -11,10 +11,10 @@
 3. [Bonus part](https://www.atlantic.net/dedicated-server-hosting/how-to-install-wordpress-with-lighttpd-web-server-on-ubuntu-20-04/?__cf_chl_captcha_tk__=5fGLKw1zRpGoOmWxq4Fu1WNm5wNXJugS2BLga4ndEbA-1636411109-0-gaNycGzNC5E)
 
 
-some extra useful links:
-https://github.com/HEADLIGHTER/Born2BeRoot-42/blob/main/evalknwoledge.txt
-https://github.com/hanshazairi/42-born2beroot#step-3-connecting-to-server-via-ssh
-https://www.vultr.com/docs/how-to-install-lighttpd-php-and-mariadb-on-ubuntu-20-04-lts
+some extra useful links: </br>
+https://github.com/HEADLIGHTER/Born2BeRoot-42/blob/main/evalknwoledge.txt </br>
+https://github.com/hanshazairi/42-born2beroot#step-3-connecting-to-server-via-ssh </br>
+https://www.vultr.com/docs/how-to-install-lighttpd-php-and-mariadb-on-ubuntu-20-04-lts </br>
 
 
 [born2broot checklist](https://github.com/mharriso/school21-checklists/blob/master/ng_1_born2beroot.pdf)

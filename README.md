@@ -1,5 +1,7 @@
 # Born2beRoot
 
+[![abernita's 21Project Score](https://badge42.herokuapp.com/api/project/abernita/born2beroot)](https://github.com/JaeSeoKim/badge42)
+
 ## Summary: This document is a System Administration related exercise.
 
 ### Some useful links:
